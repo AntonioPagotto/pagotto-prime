@@ -11,16 +11,20 @@ import Movie from '../pages/Movie';
 const App = () => {
 
     return (
-        <div>
+        <>
             <Header />
-            <BrowserRouter>
-                <Routes>
-                    <Route path="/" element={<Home />} />
-                    <Route path="movie/:id" element={<Movie />} />
-                </Routes>
-            </BrowserRouter>
+            <div className="container">
+                <BrowserRouter>
+                    <Routes>
+                        <Route path="/" element={<Home />} />
+                        <Route path="home" element={<Home />} />
+                        <Route path="movie/:id" element={<Movie />} />
+                        <Route path="header" element={<Header />} />
+                    </Routes>
+                </BrowserRouter>
+            </div>
             <Footer />
-        </div>
+        </>
     )
 };
 

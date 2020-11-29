@@ -11,7 +11,7 @@ const Slide = ({
     useEffect(() => {
         setInterval(() => {
             setIndex(
-                Math.floor(topRatedList.length * Math.random() + 1)
+                Math.floor(3 * Math.random() + 1)
             );
         }, 20000)
         // eslint-disable-next-line
@@ -20,11 +20,11 @@ const Slide = ({
     return (
         <>
             <div>
-                <div className="bg-image" style={{
+                <div class="bg-image" style={{
                     backgroundImage: "url(" + `https://image.tmdb.org/t/p/original${topRatedList[index].backdrop_path}` + ")"
                 }} >
-                    <div className="gradient">
-                        <div className="title">
+                    <div class="gradient">
+                        <div class="title">
                             <h1>{topRatedList[index].title}</h1>
                             <p>{topRatedList[index].overview}</p>
                         </div>
