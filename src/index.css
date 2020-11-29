@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Epilogue:wght@200;400&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Epilogue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(255,255,255);
+  background: linear-gradient(191deg, rgba(255,255,255,1) 0%, rgba(112,165,200,1) 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
