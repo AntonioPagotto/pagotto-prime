@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pagotto-prime/static/css/main.ff749e20.chunk.css",
-    "main.js": "/pagotto-prime/static/js/main.ed8f5da1.chunk.js",
-    "main.js.map": "/pagotto-prime/static/js/main.ed8f5da1.chunk.js.map",
+    "main.js": "/pagotto-prime/static/js/main.c422febb.chunk.js",
+    "main.js.map": "/pagotto-prime/static/js/main.c422febb.chunk.js.map",
     "runtime-main.js": "/pagotto-prime/static/js/runtime-main.6fafb61f.js",
     "runtime-main.js.map": "/pagotto-prime/static/js/runtime-main.6fafb61f.js.map",
     "static/js/2.8e336052.chunk.js": "/pagotto-prime/static/js/2.8e336052.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.6fafb61f.js",
     "static/js/2.8e336052.chunk.js",
     "static/css/main.ff749e20.chunk.css",
-    "static/js/main.ed8f5da1.chunk.js"
+    "static/js/main.c422febb.chunk.js"
   ]
 }
