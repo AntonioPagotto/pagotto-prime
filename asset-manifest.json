@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/pagotto-prime/static/css/main.ff749e20.chunk.css",
-    "main.js": "/pagotto-prime/static/js/main.9c28a5f0.chunk.js",
-    "main.js.map": "/pagotto-prime/static/js/main.9c28a5f0.chunk.js.map",
-    "runtime-main.js": "/pagotto-prime/static/js/runtime-main.5ba3e90d.js",
-    "runtime-main.js.map": "/pagotto-prime/static/js/runtime-main.5ba3e90d.js.map",
-    "static/js/2.6076c6b0.chunk.js": "/pagotto-prime/static/js/2.6076c6b0.chunk.js",
-    "static/js/2.6076c6b0.chunk.js.map": "/pagotto-prime/static/js/2.6076c6b0.chunk.js.map",
-    "static/js/3.c36d563b.chunk.js": "/pagotto-prime/static/js/3.c36d563b.chunk.js",
-    "static/js/3.c36d563b.chunk.js.map": "/pagotto-prime/static/js/3.c36d563b.chunk.js.map",
+    "main.js": "/pagotto-prime/static/js/main.ed8f5da1.chunk.js",
+    "main.js.map": "/pagotto-prime/static/js/main.ed8f5da1.chunk.js.map",
+    "runtime-main.js": "/pagotto-prime/static/js/runtime-main.6fafb61f.js",
+    "runtime-main.js.map": "/pagotto-prime/static/js/runtime-main.6fafb61f.js.map",
+    "static/js/2.8e336052.chunk.js": "/pagotto-prime/static/js/2.8e336052.chunk.js",
+    "static/js/2.8e336052.chunk.js.map": "/pagotto-prime/static/js/2.8e336052.chunk.js.map",
+    "static/js/3.2ada4c91.chunk.js": "/pagotto-prime/static/js/3.2ada4c91.chunk.js",
+    "static/js/3.2ada4c91.chunk.js.map": "/pagotto-prime/static/js/3.2ada4c91.chunk.js.map",
     "index.html": "/pagotto-prime/index.html",
     "static/css/main.ff749e20.chunk.css.map": "/pagotto-prime/static/css/main.ff749e20.chunk.css.map",
-    "static/js/2.6076c6b0.chunk.js.LICENSE.txt": "/pagotto-prime/static/js/2.6076c6b0.chunk.js.LICENSE.txt",
+    "static/js/2.8e336052.chunk.js.LICENSE.txt": "/pagotto-prime/static/js/2.8e336052.chunk.js.LICENSE.txt",
     "static/media/github.e0df113a.svg": "/pagotto-prime/static/media/github.e0df113a.svg",
     "static/media/gmail.55ea6836.svg": "/pagotto-prime/static/media/gmail.55ea6836.svg",
     "static/media/linkedin.8861cb0e.svg": "/pagotto-prime/static/media/linkedin.8861cb0e.svg",
     "static/media/loading.f9a67dba.gif": "/pagotto-prime/static/media/loading.f9a67dba.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.5ba3e90d.js",
-    "static/js/2.6076c6b0.chunk.js",
+    "static/js/runtime-main.6fafb61f.js",
+    "static/js/2.8e336052.chunk.js",
     "static/css/main.ff749e20.chunk.css",
-    "static/js/main.9c28a5f0.chunk.js"
+    "static/js/main.ed8f5da1.chunk.js"
   ]
 }
