@@ -1,7 +1,10 @@
+h2{
+  margin: 20px;
+}
 .container {
   margin: auto;
   padding: auto;
-  width: 1030px;
+  max-width: 1920px;
   background-color: #e9e9e94b;
 }
 .container-popMovies {
@@ -49,7 +52,7 @@
   max-width: 800px;
 }
 .backdrop-img{
-  height: 275px;
+  height: 405px;
   width: auto;
 }
 /* header */

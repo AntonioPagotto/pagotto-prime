@@ -1,11 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import '../styles/App.css';
 import axios from 'axios';
-import Slide from './Slide';
-import Header from './Header';
-import Footer from './Footer';
-import Title from './Title';
-import PopularMovies from './PopularMovies';
+import Slide from '../components/Slide';
+import Title from '../components/Title';
+import PopularMovies from '../components/PopularMovies';
 
 const Home = () => {
 
@@ -38,21 +36,17 @@ const Home = () => {
   if (toprated.length > 0) {
     return (
       <div>
-        <Header>
-        </Header>
-        <div class="container">
+        <div className="container">
           <div>
             <Slide topRatedList={toprated} />
           </div>
-          <Title>
-          </Title>
-          <div class="container-popMovies">
+          <Title />
+          <div className="container-popMovies">
             {popular.map((popularMovie) => (
               <PopularMovies key={popularMovie.id} popularMovie={popularMovie} />
             ))}
           </div>
         </div>
-        <Footer></Footer>
       </div>
     );
   } else {
