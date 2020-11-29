@@ -16,7 +16,7 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "./",
+  "homepage": "https://antoniopagotto.github.io/pagotto-prime/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -44,6 +44,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^2.0.1"
   }
 }
