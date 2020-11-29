@@ -14,14 +14,15 @@ const App = () => {
         <>
             <Header />
             <div className="container">
-                <BrowserRouter basename={process.env.PUBLIC_URL}>
+                <Home />
+                {/* <BrowserRouter basename={process.env.PUBLIC_URL}>
                     <Routes>
                         <Route path="/" element={<Home />} />
                         <Route path="home" element={<Home />} />
                         <Route path="movie/:id" element={<Movie />} />
                         <Route path="header" element={<Header />} />
                     </Routes>
-                </BrowserRouter>
+                </BrowserRouter> */}
             </div>
             <Footer />
         </>
