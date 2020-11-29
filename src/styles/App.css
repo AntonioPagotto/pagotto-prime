@@ -19,7 +19,7 @@ h2 {
 .container {
   margin: auto;
   padding: auto;
-  max-width: 1120px;
+  max-width: 1920px;
   background-color: var(--color-bg);
 }
 .container-popMovies {
@@ -27,6 +27,9 @@ h2 {
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: center;
+  margin: auto
+  ;
+  max-width: 1680px;
 }
 .movie-title {
   align-items: center;
@@ -56,8 +59,8 @@ h2 {
   background-color: var(--color-hover);
 }
 .backdrop-img {
-  height: 355px;
-  width: auto;
+  width: 270px;
+  height: auto;
 }
 /* Degradê */
 .gradient {
