@@ -1,5 +1,7 @@
 # Pagotto Prime
 
+Pré visualize em: https://antoniopagotto.github.io/pagotto-prime-site/index.html
+
 Consumindo a API TheMovieDB com React.
 
 Clone o repositório localmente e rode o comando no diretório:
